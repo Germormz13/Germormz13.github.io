@@ -142,13 +142,13 @@ hr {
   padding-top: 90px;
 }
 .invitacion-section3 {
-    min-height: 60vh;
+    min-height: 50vh;
     background-image: url("../img/RV2.jpg");
-    background-size: 50%;
+    background-size: 30%;
     background-repeat: no-repeat;
-    background-position-y: end;
+    background-position-y: 50%;
     background-position-x: 50%;
-    padding-top: 20px;
+    padding-top: 90px;
   }
 .invitacion-section2 {
   min-height: 30vh;
