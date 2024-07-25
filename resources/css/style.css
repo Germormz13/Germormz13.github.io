@@ -144,9 +144,9 @@ hr {
 .invitacion-section3 {
   min-height: 90vh;
   background-image: url("../img/RV2.jpg");
-  background-size: 60%;
+  background-size: 80%;
   background-repeat: no-repeat;
-  background-position-y: 90px;
+  background-position-y: 50%;
   background-position-x: 50%;
   padding-top: 90px;
 }

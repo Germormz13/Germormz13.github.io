@@ -1,58 +1,57 @@
 @media screen and (min-width: 480px) {
-    .invitacion-section {
-        background-size: 80%;
-    }
+  .invitacion-section {
+    background-size: 80%;
+  }
 
-    .confirmacion-section form {
-        padding: 1rem 3rem 0;
-    }
+  .confirmacion-section form {
+    padding: 1rem 3rem 0;
+  }
 }
 
 @media screen and (min-width: 640px) {
-    .invitacion-section {
-        background-size: 60%;
-    }
+  .invitacion-section {
+    background-size: 60%;
+  }
 
-    p {
-        width: 480px;
-        margin: 1rem 0;
-    }
+  p {
+    width: 480px;
+    margin: 1rem 0;
+  }
 
-    .countdown-section .heart {
-        width: 43%;
-        margin: 1rem 0;
-    }
+  .countdown-section .heart {
+    width: 43%;
+    margin: 1rem 0;
+  }
 }
 
 @media screen and (min-width: 854px) {
-    html {
-        font-size: 18px;
-    }
+  html {
+    font-size: 18px;
+  }
 
-    .invitacion-section {
-        background-size: 38%;
-        padding-top: 128px;
-    }
+  .invitacion-section {
+    background-size: 38%;
+    padding-top: 128px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    html {
-        font-size: 24px;
-    }
+  html {
+    font-size: 24px;
+  }
 
-    .invitacion-section {
-        background-size: 30%;
-    }
+  .invitacion-section {
+    background-size: 30%;
+  }
 }
 
 @media screen and (min-width: 1920px) {
-    p {
-        width: 640px;
-        margin: 2rem 0;
-    }
+  p {
+    width: 640px;
+    margin: 2rem 0;
+  }
 
-    .invitacion-section {
-        background-size: 25%;
-    }
+  .invitacion-section {
+    background-size: 25%;
+  }
 }
-
