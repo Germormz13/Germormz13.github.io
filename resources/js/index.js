@@ -49,4 +49,3 @@ function onLoad() {
     setInterval(onCountdownLoad, 1000);
 }
 
-$('.carousel').carousel()
