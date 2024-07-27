@@ -3,7 +3,7 @@ let subMensaje2 = ", confirmo mi asistencia a su Boda";
 
 const audio = new Audio("resources/audio/music.mp3");
 audio.loop = true;
-let isPlaying = false;
+let isPlaying = true;
 
 function onCountdownLoad() {
     let date = new Date('August 22, 2024 19:00:00');
@@ -23,7 +23,7 @@ function onSubmit(event) {
     event.preventDefault();
     let name = document.getElementById("name").value;
     let mensaje = (subMensaje1 + name + subMensaje2).replace(" ", "%20");
-    let url = "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+    let url = "https://wa.me/+5215544494315?text=" + mensaje
     window.location.href = url;
 }
 

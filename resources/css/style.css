@@ -35,6 +35,18 @@ h2 {
   font-size: 3rem;
   margin: 1rem 0;
 }
+h6{
+  font-family: "Dancing Script", cursive;
+  font-size: 3rem;
+  margin: 1rem 0;
+  color: rgb(216, 94, 0);
+}
+h7{
+  font-family: "Dancing Script", cursive;
+  font-size: 3.2rem;
+  margin: 0rem 0;
+  color: #f49877;
+}
 
 h3 {
   font-family: "Dancing Script", cursive;
