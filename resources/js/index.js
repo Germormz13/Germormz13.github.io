@@ -29,6 +29,7 @@ function onSubmit(event) {
 function playMusic() {
     let playBtn = document.getElementById("play");
     let stopBtn = document.getElementById("stop");
+    
     if (!audio.paused) {
         playBtn.classList.add("hidden");
         stopBtn.classList.remove("hidden");

@@ -13,6 +13,7 @@ html {
   background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
   color: rgb(0, 0, 0);
   text-align: center;
+  
 }
 
 section {
@@ -155,7 +156,7 @@ input {
   background-image: url("../img/ramo.png");
   background-size: 100%;
   background-repeat: no-repeat;
-  background-position-y: -140px;
+  background-position-y: -165px;
   background-position-x: 50%;
   padding-top: 90px;
 }
