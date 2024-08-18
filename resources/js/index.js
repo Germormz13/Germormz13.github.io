@@ -5,7 +5,7 @@ const audio = new Audio("resources/audio/music.mp3");
 audio.loop = true;
 
 function onCountdownLoad() {
-    let date = new Date('August 22, 2024 19:00:00');
+    let date = new Date('August 24, 2024 19:00:00');
     let now = new Date();
     let distance = date - now;
     let days = Math.floor(distance / (1000 * 60 * 60 * 24));
